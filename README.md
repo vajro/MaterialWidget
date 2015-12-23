@@ -1,3 +1,20 @@
+
+[![Release](https://img.shields.io/github/tag/vajro/MaterialDialog.svg?label=JitPack)](https://jitpack.io/#vajro/MaterialDialog)
+
+####Gradle Usage:
+
+```gradle
+repositories {
+	maven { url "https://jitpack.io" }
+}
+
+dependencies {
+	compile 'com.github.vajro:MaterialWidget:1.0'
+}
+```
+
+#Original README
+
 # MaterialWidget
 
 Android Lollipop design widget in Android 4.0 ~ 4.4.
